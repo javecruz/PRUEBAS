@@ -19,7 +19,7 @@ import java.util.logging.Logger;
  * @author Entornos
  */
 public class Clientes extends javax.swing.JFrame {
-
+////////////PRUEBAAAAAA xDDDDD
     static public ResultSet r;
     int control;
     

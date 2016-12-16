@@ -16,6 +16,7 @@ import java.util.logging.Logger;
 
 public class Fabricantes extends javax.swing.JFrame {
 // COMENTARIO ESCRITO DESDE GITHUB
+    //COMENTARIO DESDE LA NUEVARAMA
     static public ResultSet r;
     int control;
 

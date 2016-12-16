@@ -18,6 +18,8 @@ import java.util.logging.Logger;
  *
  * @author Entornos
  */
+
+//PRUEBAAA
 public class Clientes extends javax.swing.JFrame {
 
     static public ResultSet r;

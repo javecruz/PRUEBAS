@@ -15,7 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Fabricantes extends javax.swing.JFrame {
-
+// COMENTARIO ESCRITO DESDE GITHUB
     static public ResultSet r;
     int control;
 
